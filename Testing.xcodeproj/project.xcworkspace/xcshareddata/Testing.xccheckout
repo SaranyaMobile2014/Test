@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>543E9764-2B67-4A6D-9093-D1E8DA1FB7E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Testing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9D2CBBFA-C50E-4DF8-B7DD-75CC9D21D01F</key>
+		<string>https://github.com/SaranyaMobile2014/Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Testing.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>71EBC180-8078-427D-875D-17845159FC20</key>
+		<string>../../Testing</string>
+		<key>9D2CBBFA-C50E-4DF8-B7DD-75CC9D21D01F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/SaranyaMobile2014/Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9D2CBBFA-C50E-4DF8-B7DD-75CC9D21D01F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9D2CBBFA-C50E-4DF8-B7DD-75CC9D21D01F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Test</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>71EBC180-8078-427D-875D-17845159FC20</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Testing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
